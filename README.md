@@ -1,2 +1,1 @@
-# Happy-Code-Repository
-Nick's Repository
+# java redids = Jedis
